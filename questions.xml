@@ -1,0 +1,208 @@
+<game_questions>
+	<question text="Is the team in the American League?">
+		<answer useranswer="yes">
+			<question text="Has the team won the World Series?">
+				<answer useranswer="yes">
+					<question text="Is the team named after an animal?">
+						<answer useranswer="yes">
+							<question text="Is the team name a bird?">
+								<answer useranswer="yes">
+									<question text="Is the team located in Canada?">
+										<answer useranswer="yes">
+											<team>Toronto Blue Jays</team>
+										</answer>
+										<answer useranswer="no">
+											<team>Baltimore Orioles</team>
+										</answer>
+									</question>
+								</answer>
+								<answer useranswer="no">
+									<team>Detroit Tigers</team>
+								</answer>
+							</question>
+						</answer>
+						<answer useranswer="no">
+							<question text="Is the team located in California?">
+								<answer useranswer="yes">
+									<question text="Is the team the focus of the movie Moneyball?">
+										<answer useranswer="yes">
+											<team>Oakland Athletics</team>
+										</answer>
+										<answer useranswer="no">
+											<team>Los Angeles Angels</team>
+										</answer>
+									</question>
+								</answer>
+								<answer useranswer="no">
+									<question
+										text="Does the team name contain an article of clothing?">
+										<answer useranswer="yes">
+											<question text="Does the city of the team also have another team?">
+												<answer useranswer="yes">
+													<team>Chicago White Sox</team>
+												</answer>
+												<answer useranswer="no">
+													<team>Boston Red Sox</team>
+												</answer>
+											</question>
+										</answer>
+										<answer useranswer="no">
+											<question text="Does this team’s logo have a “C” on it?">
+												<answer useranswer="yes">
+													<question text="Did this team play in the 2016 World Series?">
+														<answer useranswer="yes">
+															<team>Cleveland Indians</team>
+														</answer>
+														<answer useranswer="no">
+															<question text="Did George Brett play for this team?">
+																<answer useranswer="yes">
+																	<team>Kansas City Royals</team>
+																</answer>
+																<answer useranswer="no">
+																	<team>Minnesota Twins</team>
+																</answer>
+															</question>
+														</answer>
+													</question>
+												</answer>
+												<answer useranswer="no">
+													<team>New York Yankees</team>
+												</answer>
+											</question>
+
+										</answer>
+									</question>
+								</answer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+				<answer useranswer="no">
+					<question text="Is the team located in Texas?">
+						<answer useranswer="yes">
+							<question text="Was this the final team Nolan Ryan played for?">
+								<answer useranswer="yes">
+									<team>Texas Rangers</team>
+								</answer>
+								<answer useranswer="no">
+									<team>Houston Astros</team>
+								</answer>
+							</question>
+						</answer>
+						<answer useranswer="no">
+							<question text="Did Ichiro Suzuki play for this team?">
+								<answer useranswer="yes">
+									<team>Seattle Mariners</team>
+								</answer>
+								<answer useranswer="no">
+									<team>Tampa Bay Rays</team>
+								</answer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+			</question>
+		</answer>
+		<answer useranswer="no">
+			<question text="Has the team won the World Series?">
+				<answer useranswer="yes">
+					<question text="Did the team exist and play in its current city before 1960?">
+						<answer useranswer="yes">
+							<question text="Does this team play in a stadium named after a bank?">
+								<answer useranswer="yes">
+									<question text="Did Roberto Clemente play for this team?">
+										<answer useranswer="yes">
+											<team>Pittsburgh Pirates</team>
+										</answer>
+										<answer useranswer="no">
+											<team>Philadelphia Phillies</team>
+										</answer>
+									</question>
+								</answer>
+								<answer useranswer="no">
+									<question text="Is this team located in the Midwest?">
+										<answer useranswer="yes">
+											<question text="Did this team win the 2016 World Series?">
+												<answer useranswer="yes">
+													<team>Chicago Cubs</team>
+												</answer>
+												<answer useranswer="no">
+													<question text="Did this team change their name during the Red Scare?">
+														<answer useranswer="yes">
+															<team>Cincinnati Reds</team>
+														</answer>
+														<answer useranswer="no">
+															<team>St. Louis Cardinals</team>
+														</answer>
+													</question>
+												</answer>
+											</question>
+										</answer>
+										<answer useranswer="no">
+											<question text="Did Jackie Robinson play for this team?">
+												<answer useranswer="yes">
+													<team>Los Angeles Dodgers</team>
+												</answer>
+												<answer useranswer="no">
+													<team>San Francisco Giants</team>
+												</answer>
+											</question>
+										</answer>
+									</question>
+								</answer>
+							</question>
+						</answer>
+						<answer useranswer="no">
+							<question text="Is the team located in a Spring Training state?">
+								<answer useranswer="yes">
+									<question text="Did Randy Johnson hit a bird with a pitch while on the team?">
+										<answer useranswer="yes">
+											<team>Arizona Diamondbacks</team>
+										</answer>
+										<answer useranswer="no">
+											<team>Miami Marlins</team>
+										</answer>
+									</question>
+								</answer>
+								<answer useranswer="no">
+									<question text="Does the city of this team also have another team?">
+										<answer useranswer="yes">
+											<team>New York Mets</team>
+										</answer>
+										<answer useranswer="no">
+											<team>Atlanta Braves</team>
+										</answer>
+									</question>
+								</answer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+				<answer useranswer="no">
+					<question text="Has the team always existed in the same location?">
+						<answer useranswer="yes">
+							<question text="Has this team ever won a division title?">
+								<answer useranswer="yes">
+									<team>San Diego Padres</team>
+								</answer>
+								<answer useranswer="no">
+									<team>Colorado Rockies</team>
+								</answer>
+							</question>
+						</answer>
+						<answer useranswer="no">
+							<question text="Does the team play in Miller Park?">
+								<answer useranswer="yes">
+									<team>Milwaukee Brewers</team>
+								</answer>
+								<answer useranswer="no">
+									<team>Washington Nationals</team>
+								</answer>
+							</question>
+						</answer>
+					</question>
+				</answer>
+			</question>
+		</answer>
+	</question>
+</game_questions>
